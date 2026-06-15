@@ -9,7 +9,7 @@
 * MySQL
 * Gradle
 * Python (데이터 초기 ETL 및 마이그레이션)
-* Kakao Local API (주소 변환 및 위치 기반 데이터 처리)
+* Kakao Maps API (위치 기반 데이터 처리 및 시각화 지원)
   
 ---
 
